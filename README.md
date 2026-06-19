@@ -19,6 +19,6 @@ the multi-agent orchestration and spec-driven-development plumbing that makes AI
 
 🔧 **Tech** — Swift · SwiftUI · SwiftData · Flutter · Dart · Bloc · Supabase / Postgres · Bash · Claude Code
 
-🌱 **Open-source contributions** — documentation fixes merged into the **Dart SDK** (via Gerrit) and [**Flutter**](https://github.com/flutter/flutter/pull/147221), found while reading the framework internals.
+🌱 **Open-source contributions** — documentation fixes merged into the **[Dart SDK](https://dart-review.googlesource.com/c/sdk/+/364640)** (via Gerrit) and [**Flutter**](https://github.com/flutter/flutter/pull/147221), found while reading the framework internals.
 
 📫 [andygile.com](https://andygile.com) · andy@andygile.com
