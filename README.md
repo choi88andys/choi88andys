@@ -1,4 +1,4 @@
-### Hi, I'm Andy 👋
+## Hi, I'm Andy 👋
 
 iOS & Flutter engineer in Seoul, running the indie app studio **[Andygile](https://andygile.com)**.
 I ship production apps to the App Store and build **Claude Code agent / harness tooling** —
