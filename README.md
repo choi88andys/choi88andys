@@ -17,7 +17,7 @@ the multi-agent orchestration and spec-driven-development plumbing that makes AI
 - [**ShalloWeDive**](https://andygile.com/shallowedive) — Apple Watch Ultra freediving dive computer · CoreMotion submersion + HealthKit · on the App Store
 - **mmpedia** — Flutter + Supabase platform with a from-scratch hybrid recommender (content-based + Funk SVD + KNN) and a pg_cron retrain pipeline · *in development*
 
-🔧 **Tech** — Swift · SwiftUI · SwiftData · Flutter · Dart · Bloc · Supabase / Postgres · Bash · Claude Code
+🔧 **Tech** — Swift · SwiftUI · SwiftData · Flutter · Dart · Bloc · Supabase / Postgres · CF · Bash · Claude Code
 
 🌱 **Open-source contributions** — documentation fixes merged into the **[Dart SDK](https://dart-review.googlesource.com/c/sdk/+/364640)** (via Gerrit) and [**Flutter**](https://github.com/flutter/flutter/pull/147221), found while reading the framework internals.
 
